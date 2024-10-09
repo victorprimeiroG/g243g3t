@@ -49,3 +49,16 @@ footer{
     height: 3rem;
     margin-top: 2rem;
 }
+.graficos-container {
+    margin: 5rem;
+}
+.graficos-container_texto {
+    font-size: 1.3rem;
+    text-align: center;
+    padding: 2rem;
+    border: var(--secundary-color) solid 2px;
+}
+span {
+    font-weight: bold;
+    color: var(--secundary-color);
+}
